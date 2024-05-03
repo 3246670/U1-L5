@@ -1,0 +1,22 @@
+main{
+    width: 50%;
+    margin: 35%;
+
+}
+h1{font-size: 2em;}
+p{ font-size: 0.9em;}
+.card{
+    width: 269px;
+    height: 270px;
+    border: 10px;
+    padding: 45px;
+    border: 1px solid black;
+    border-radius: 25px;
+    line-height: 68px;
+    text-align: center;
+    display: flexbox;
+    
+}
+.card -lg{
+background-image: url(./img/style/img/images/logo.png);
+}
