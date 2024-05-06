@@ -3,6 +3,10 @@ main{
     margin: 35%;
 
 }
+
+
+
+
 h1{font-size: 2em;}
 p{ font-size: 0.9em;}
 .card{
@@ -17,6 +21,9 @@ p{ font-size: 0.9em;}
     display: flexbox;
     
 }
-.card -lg{
-background-image: url(./img/style/img/images/logo.png);
+.cardlg{
+background-image: url(./img/images/logo.png);
+}
+.card2{
+    
 }
